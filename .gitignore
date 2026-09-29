@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+
+# SQLite local database & test databases
+*.db
+*.db-journal
+
+# Build outputs & caches
+dist/
+.cache/
+npm-debug.log*
